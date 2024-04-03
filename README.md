@@ -8,3 +8,4 @@ why should you use betterfps?
 3: better performance boost fps to 4x than existing fps
 4: made for low end device and high end both 
 5: supports smooth stonking in dungeons and mining sector
+support us for more
